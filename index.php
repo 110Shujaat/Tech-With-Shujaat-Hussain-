@@ -1,1 +1,1 @@
-<?php echo 'Laravel backend working'; ?>
+<?php echo 'Welcome to Tech With Shujaat Hussain'; ?>

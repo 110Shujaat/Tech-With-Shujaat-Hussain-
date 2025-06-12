@@ -1,1 +1,1 @@
-console.log('React frontend working');
+console.log('App started');
